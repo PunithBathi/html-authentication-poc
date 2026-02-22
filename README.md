@@ -12,4 +12,4 @@ Features:
 - Anchor tag redirections between pages
 - Simple form structure
 
-GitHub Repository: (https://github.com/PunithBathi/html-authentication-poc.git)
+GitHub Repository: (https://github.com/PunithBathi/html-authentication-poc)
