@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Center content properly */
+.container {
+  min-height: 100vh;
+}
+
+/* Card styling */
+.card {
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  border: none;
+}
+
+/* Button styling */
+.btn-primary {
+  transition: 0.3s;
+  border-radius: 8px;
+}
+
+.btn-primary:hover {
+  transform: scale(1.05);
+}
+
+/* Input focus effect */
+.form-control:focus {
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  border-color: #007bff;
+}
+
+/* Link styling */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
